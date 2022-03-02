@@ -1,1 +1,1 @@
-# KZ_pit
+# Kārlis Zaremba
